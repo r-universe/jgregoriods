@@ -1,0 +1,10 @@
+[
+  {
+    "package": "dispeRse",
+    "oncran": true
+  },
+  {
+    "package": "spDates",
+    "oncran": true
+  }
+]

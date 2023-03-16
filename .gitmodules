@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "dispeRse"]
+	path = dispeRse
+	url = https://github.com/jgregoriods/disperse
+	shallow = true
+	registered = true
+[submodule "spDates"]
+	path = spDates
+	url = https://github.com/jgregoriods/spdates
+	shallow = true
+	registered = true
